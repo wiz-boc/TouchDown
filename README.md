@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - Email - kenroymgayle@gmail.com
 - Twitter - [@codablecode](https://twitter.com/codablecode)
 - Instagram - [@wiz_codable](http://instagram.com/wiz_codable/)
-- Project Link: [https://github.com/wiz-boc/Africa](https://github.com/wiz-boc/Africa)
+- Project Link: [https://github.com/wiz-boc/TouchDown](https://github.com/wiz-boc/TouchDown)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
